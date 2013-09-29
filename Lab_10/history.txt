@@ -1,0 +1,19 @@
+isEmpty
+add 1776 Declaration of Independence
+add 1687 Isaac Newton's Principia
+add 1456 Gutenberg Bible
+add 1815 Napolean defeated at Waterloo
+inorder
+getEntry 1815
+getEntry 1624
+getHeight
+contains 1776
+getNumberOfNodes
+remove 1324
+remove 1456
+preorder
+add 1861 Confederacy attacked Fort Sumter
+postorder
+add 1871 Otto von Bismark became the Chancellor of the German Empire
+add 1865 Abraham Lincoln assassinated
+inorder

@@ -1,0 +1,35 @@
+16
+snow 31
+never 67
+vehicle 89
+book 91
+physics 17
+after 84
+memory 72
+tall 35
+school 44
+see 33
+always 51
+building 40
+tree 97
+fake 77
+why 93
+will 73
+
+13
+44 cemetery
+73 me
+33 church
+84 the
+89 computer
+97 come
+31 meet
+17 truck
+67 old
+93 STOP
+35 alone
+91 at
+51 behind
+
+snow will book after school always after never see
+why tree tall why

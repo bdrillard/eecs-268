@@ -1,0 +1,5 @@
+QuickSort
+t_4096        =         25861.6 microseconds      0.0258616 seconds
+t_16384       =          387835 microseconds       0.387835 seconds
+t_65536       =     5.83173e+06 microseconds        5.83173 seconds
+Segmentation fault

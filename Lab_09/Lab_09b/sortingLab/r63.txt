@@ -1,0 +1,10 @@
+RadixSort
+t_4           =            41.9 microseconds       4.19e-05 seconds
+t_16          =            61.6 microseconds       6.16e-05 seconds
+t_64          =           161.5 microseconds      0.0001615 seconds
+t_256         =           518.2 microseconds      0.0005182 seconds
+t_1024        =            1963 microseconds       0.001963 seconds
+t_4096        =            7731 microseconds       0.007731 seconds
+t_16384       =         30825.5 microseconds      0.0308255 seconds
+t_65536       =          123045 microseconds       0.123045 seconds
+t_262144      =          494959 microseconds       0.494959 seconds

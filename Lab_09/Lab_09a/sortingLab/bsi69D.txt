@@ -1,0 +1,15 @@
+BubbleSort
+t_4096        =          121798 microseconds       0.121799 seconds
+t_16384       =     1.94502e+06 microseconds        1.94502 seconds
+t_65536       =      4.0804e+07 microseconds         40.804 seconds
+t_262144      =     5.65735e+08 microseconds        565.735 seconds
+SelectionSort
+t_4096        =         39612.5 microseconds      0.0396125 seconds
+t_16384       =          659870 microseconds       0.659869 seconds
+t_65536       =     1.05923e+07 microseconds        10.5923 seconds
+t_262144      =       1.751e+08 microseconds          175.1 seconds
+InsertionSort
+t_4096        =         61953.5 microseconds      0.0619535 seconds
+t_16384       =          985131 microseconds       0.985131 seconds
+t_65536       =     1.59201e+07 microseconds        15.9201 seconds
+t_262144      =     2.70703e+08 microseconds        270.703 seconds

@@ -1,0 +1,8 @@
+main2: main2.o Event.o
+	g++ -g main2.o Event.o -o Lab10-Test2
+main2.o: main2.cpp Manager.h BinarySearchTree.h BinaryNode.h NotFoundException.h Event.o
+	g++ -g -c main2.cpp
+Event.o: Event.h Event.cpp
+	g++ -g -c Event.cpp
+clean:
+	rm -rf *.o *~ Lab10-Test2

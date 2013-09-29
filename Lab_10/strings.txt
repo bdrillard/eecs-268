@@ -1,0 +1,20 @@
+add book
+add encyclopedia
+add automobile
+add zebra
+inorder
+getEntry zebra
+getEntry xylophone
+isEmpty
+getHeight
+contains automobile
+contains swingset
+getNumberOfNodes
+remove swingset
+remove trouble
+preorder
+add attacked
+postorder
+add German
+add kaleidoscope
+inorder

@@ -1,0 +1,35 @@
+BubbleSort
+t_4           =             0.1 microseconds          1e-07 seconds
+t_16          =             1.3 microseconds        1.3e-06 seconds
+t_64          =            17.8 microseconds       1.78e-05 seconds
+t_256         =           285.2 microseconds      0.0002852 seconds
+t_1024        =          4673.6 microseconds      0.0046736 seconds
+t_4096        =         74963.4 microseconds      0.0749634 seconds
+SelectionSort
+t_4           =               0 microseconds              0 seconds
+t_16          =               1 microseconds          1e-06 seconds
+t_64          =            10.7 microseconds       1.07e-05 seconds
+t_256         =           157.4 microseconds      0.0001574 seconds
+t_1024        =          2347.2 microseconds      0.0023472 seconds
+t_4096        =           36982 microseconds       0.036982 seconds
+InsertionSort
+t_4           =             0.1 microseconds          1e-07 seconds
+t_16          =               1 microseconds          1e-06 seconds
+t_64          =            12.1 microseconds       1.21e-05 seconds
+t_256         =           178.9 microseconds      0.0001789 seconds
+t_1024        =          2841.7 microseconds      0.0028417 seconds
+t_4096        =         45751.9 microseconds      0.0457519 seconds
+QuickSort
+t_4           =             0.1 microseconds          1e-07 seconds
+t_16          =             0.7 microseconds          7e-07 seconds
+t_64          =             8.1 microseconds        8.1e-06 seconds
+t_256         =           107.5 microseconds      0.0001075 seconds
+t_1024        =          1634.2 microseconds      0.0016342 seconds
+t_4096        =         25717.4 microseconds      0.0257174 seconds
+MergeSort
+t_4           =             0.3 microseconds          3e-07 seconds
+t_16          =             1.1 microseconds        1.1e-06 seconds
+t_64          =             5.2 microseconds        5.2e-06 seconds
+t_256         =            26.8 microseconds       2.68e-05 seconds
+t_1024        =           127.9 microseconds      0.0001279 seconds
+t_4096        =           599.5 microseconds      0.0005995 seconds

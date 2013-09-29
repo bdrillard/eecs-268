@@ -1,0 +1,5 @@
+MergeSort
+t_4096        =           957.4 microseconds      0.0009574 seconds
+t_16384       =          4403.4 microseconds      0.0044034 seconds
+t_65536       =         19889.4 microseconds      0.0198894 seconds
+t_262144      =         88989.1 microseconds      0.0889891 seconds

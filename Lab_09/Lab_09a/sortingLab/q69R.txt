@@ -1,0 +1,5 @@
+QuickSort
+t_4096        =           532.4 microseconds      0.0005324 seconds
+t_16384       =          2435.3 microseconds      0.0024353 seconds
+t_65536       =         10953.5 microseconds      0.0109535 seconds
+t_262144      =         48569.7 microseconds      0.0485697 seconds

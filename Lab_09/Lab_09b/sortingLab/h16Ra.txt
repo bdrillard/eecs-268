@@ -1,0 +1,7 @@
+ShellSort
+t_4           =             3.6 microseconds        3.6e-06 seconds
+t_16          =               3 microseconds          3e-06 seconds
+t_64          =            15.1 microseconds       1.51e-05 seconds
+t_256         =           184.8 microseconds      0.0001848 seconds
+t_1024        =            2674 microseconds       0.002674 seconds
+t_4096        =         41656.7 microseconds      0.0416567 seconds

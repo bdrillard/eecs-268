@@ -1,0 +1,8 @@
+main1: main1.o
+	g++ -g main1.o -o Lab10-Test1
+main1.o: main1.cpp BinarySearchTree.h BinarySearchTree.cpp BinaryNode.h BinaryNode.cpp NotFoundException.h
+	g++ -g -c main1.cpp
+test:
+	./Lab10-Test1
+clean:
+	rm -f *~ *.o Lab10-Test1
